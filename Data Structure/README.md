@@ -1,4 +1,4 @@
-Simple Data Structure projects.
+Simple Data Structure project.
 
 This project conatins a menu including random, insert, delete, search, display options.
 insert func adds new elements in the array,
